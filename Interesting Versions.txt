@@ -1,0 +1,16 @@
+8566725 Survival 323 USED TO BE 303
+	-Survival 303 37
+		--The second island, Rockma, is added. The first island is improved and becomes Bento 		  Island.
+	-Survival 303 80 v2.05
+		--An admin item called the bug sword is added
+	-Survival 303 88 
+		--3 admin items (Bugsword, Davidii Bet, Shagabucket) are removed
+	-Survival 303 79 v2
+		--Mainland is added, but it is at half the size of the normal mainland
+	-Survival 303 112 v2.785
+		--3 new islands are added, 2 of which are later removed. The remaining island is Magma
+	-Survival 303 117 v3
+		--Skills are added
+	-Survival 303 118 v3 1
+		--The 2 previously mentioned islands are removed
+	
